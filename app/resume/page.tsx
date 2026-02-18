@@ -162,7 +162,7 @@ export default function ResumePage() {
       <div className="page">
         <div className="name">ANIL KUMAR MUTYALA</div>
         <div className="contact-line">
-          anilmutyala516@gmail.com &nbsp;|&nbsp; +91 9347558332 &nbsp;|&nbsp;
+          anilmutyala516@gmail.com &nbsp;|&nbsp; +919347558332 &nbsp;|&nbsp;
           <a href="https://www.linkedin.com/in/anilkumar-mutyala-612766219" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
           &nbsp;|&nbsp;
           <a href="https://github.com/MutyalaAnilKumar" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
