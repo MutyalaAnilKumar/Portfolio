@@ -71,11 +71,11 @@ const projects = [
     overview:
       "A Telegram Mini App racing game with boosters, referrals, ad-driven tasks, and crypto-style withdrawals, backed by a Node.js/Express API and MongoDB.",
     architecture: [
-      "React + Vite Telegram Mini App frontend",
       "Node.js/Express REST API for racing, rewards, boosters, and referrals",
       "MongoDB modeling for users, races, rewards, and history",
       "JWT authentication and role-based user/admin APIs",
       "Cron jobs for tasks, rewards, and system maintenance",
+      "React + Vite Telegram Mini App frontend"
     ],
     userFeatures: [
       "In-chat racing gameplay with boosters and power-ups",
@@ -103,10 +103,10 @@ const projects = [
     overview:
       "A modern Tetris-style platform with Telegram integration, leaderboards, referrals, daily tasks, boosters, adblock detection, and secure withdrawals.",
     architecture: [
-      "React + Vite frontend for Tetris gameplay and UI",
       "Node.js/Express backend for users, scores, bets, and payouts",
       "MongoDB/Mongoose schemas for users, tasks, rewards, and withdrawals",
       "Telegram integration for access, notifications, and bots",
+      "React + Vite frontend for Tetris gameplay and UI",
     ],
     userFeatures: [
       "Classic Tetris gameplay with modern UX",
